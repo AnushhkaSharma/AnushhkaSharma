@@ -29,3 +29,22 @@ Passionate about pioneering sustainable technology solutions and enhancing cyber
 
 ## Education
 - **Manipal Institute of Technology**: Pursuing a Bachelor of Technology in Computer and Communication Engineering (2021 - 2025).
+## 📊 GitHub Statistics
+
+<p align="center">
+  <a href="https://github.com/anushkasharma">
+    <img src="https://github-readme-stats.vercel.app/api?username=anushkasharma&show_icons=true&count_private=true&theme=radical" alt="Anushka's GitHub Stats"/>
+  </a>
+  <br>
+  <a href="https://github.com/anushkasharma">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=anushkasharma&theme=radical" alt="Anushka's GitHub Streak"/>
+  </a>
+  <br>
+  <a href="https://github.com/anushkasharma">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushkasharma&layout=compact&theme=radical" alt="Anushka's Top Languages"/>
+  </a>
+</p>
+
+## 💬 Let's Connect
+Feel free to reach out to collaborate or just say hi. Together, we can make a difference in the world of technology!
+
