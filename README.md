@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hi 👋, I'm Anushka Sharma
 
-<!--
-**AnushhkaSharma/AnushhkaSharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## B.Tech in Computer and Communication Engineering | Innovator in Tech Solutions & Cybersecurity Enthusiast
 
-Here are some ideas to get you started:
+Passionate about pioneering sustainable technology solutions and enhancing cybersecurity, I bring to the table a solid foundation in programming, web development, and data analysis. My projects range from developing eco-friendly waste management systems to creating cutting-edge AI assistants and security tools. As a leader, I've contributed significantly to cybersecurity awareness and have been an integral part of organizing cultural and tech events, showcasing my ability to manage and motivate teams towards excellence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect With Me
+- 📧 Email: [anushkasharma2675@gmail.com](mailto:anushkasharma2675@gmail.com)
+- 🔗 LinkedIn: [Anushka Sharma](https://www.linkedin.com/in/anushka-sharma)
+
+## Technical Skills
+- **Languages**: C, C++, Java, Python
+- **Web Development**: HTML, CSS, JavaScript, Bootstrap, ReactJS
+- **Other Skills**: Socket Programming, Linux, Android, Cyber Security
+- **Databases**: MySQL, Firebase
+
+## Key Projects
+- **WasteWise**: A portal revolutionizing waste management for environmental sustainability.
+- **Alex**: Browser-integrated AI for personalized user interactions.
+- **Den-Guard**: Data analysis on Dengue outbreaks to inform healthcare strategies.
+- **Weather Forecast**: Dynamic web application for real-time weather updates.
+- **Key-Logger Application**: Stealthy tool for security analysis.
+- **CriccCheck**: Chrome extension for instant cricket updates.
+
+## Leadership & Achievements
+- **KAVACH Hackathon**: Placed fourth with a project on advanced CCTV analytics.
+- **Manipal Information Security Team**: Led as Operations Head, organizing events to promote cybersecurity awareness.
+- **Revels Cultural Fest**: Core committee member, orchestrating events with significant student engagement.
+
+## Education
+- **Manipal Institute of Technology**: Pursuing a Bachelor of Technology in Computer and Communication Engineering (2021 - 2025).
