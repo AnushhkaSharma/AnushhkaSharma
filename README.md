@@ -1,7 +1,10 @@
 # Hi 👋, I'm Anushka Sharma
 
 <p align="center">
-  <img src="gitgif" alt="Fun GIF">
+  <video width="320" height="240" controls>
+    <source src="gitgif" type="video/mp4">
+  
+  </video>
 </p>
 
 ## B.Tech in Computer and Communication Engineering | Innovator in Tech Solutions & Cybersecurity Enthusiast
