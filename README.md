@@ -1,5 +1,9 @@
 # Hi 👋, I'm Anushka Sharma
 
+<p align="center">
+  <img src="gitgif" alt="Fun GIF">
+</p>
+
 ## B.Tech in Computer and Communication Engineering | Innovator in Tech Solutions & Cybersecurity Enthusiast
 
 Passionate about pioneering sustainable technology solutions and enhancing cybersecurity, I bring to the table a solid foundation in programming, web development, and data analysis. My projects range from developing eco-friendly waste management systems to creating cutting-edge AI assistants and security tools. As a leader, I've contributed significantly to cybersecurity awareness and have been an integral part of organizing cultural and tech events, showcasing my ability to manage and motivate teams towards excellence.
